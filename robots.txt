@@ -1,5 +1,5 @@
 # robots.txt — MATİAT FIRIN PASTA
-# https://yourdomain.com/
+# https://bakery-shop-web-vercel.vercel.app/
 
 User-agent: *
 Allow: /
@@ -21,4 +21,4 @@ Disallow: /testimonial.html
 # Crawl-delay is intentionally omitted — Googlebot ignores it,
 # and the site is small enough that no throttling is needed.
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://bakery-shop-web-vercel.vercel.app/sitemap.xml
