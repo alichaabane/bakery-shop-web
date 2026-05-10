@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+        <loc>https://yourdomain.com/</loc>
+        <lastmod>2026-05-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yourdomain.com/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://yourdomain.com/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yourdomain.com/"/>
+
+        <image:image>
+            <image:loc>https://yourdomain.com/img/cover_photo.png</image:loc>
+            <image:title>MATİAT FIRIN PASTA</image:title>
+            <image:caption>MATİAT FIRIN PASTA — Çukurova Üniversitesi girişinde fırın kioskudur.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/place_photo.jpg</image:loc>
+            <image:title>MATİAT FIRIN PASTA Konumu</image:title>
+            <image:caption>Çukurova Üniversitesi Ana Giriş Kapısı önünde MATİAT FIRIN PASTA noktası.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/place_photo2.jpg</image:loc>
+            <image:title>MATİAT FIRIN PASTA Galeri</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/place_photo3.jpg</image:loc>
+            <image:title>MATİAT FIRIN PASTA Galeri</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/university.png</image:loc>
+            <image:title>Çukurova Üniversitesi Girişi</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/simit.png</image:loc>
+            <image:title>Taze Simit</image:title>
+            <image:caption>Dışı çıtır, içi yumuşak günlük taze simit.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/pogaca.png</image:loc>
+            <image:title>Poğaça</image:title>
+            <image:caption>Günlük taze poğaça seçenekleri.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/borek.png</image:loc>
+            <image:title>Peynirli Börek</image:title>
+            <image:caption>Gün içinde sıcak servis edilen peynirli börek.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/ekler.png</image:loc>
+            <image:title>Ekler</image:title>
+            <image:caption>Taze tatlı ürünler arasında günlük ekler.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/cafe.png</image:loc>
+            <image:title>Kahve</image:title>
+            <image:caption>Fırın ürünlerinin yanında kahve seçenekleri.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourdomain.com/img/drinks.png</image:loc>
+            <image:title>Çay & İçecekler</image:title>
+            <image:caption>Çay ve soğuk içecek alternatifleri.</image:caption>
+        </image:image>
+    </url>
+
+</urlset>

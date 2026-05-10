@@ -1,0 +1,24 @@
+# robots.txt — MATİAT FIRIN PASTA
+# https://yourdomain.com/
+
+User-agent: *
+Allow: /
+
+# Block crawl of build/system folders that may be deployed accidentally.
+Disallow: /.idea/
+Disallow: /.git/
+Disallow: /node_modules/
+
+# Legacy template stub pages (meta-refresh redirects to index.html#anchors).
+# Excluded from indexing to avoid soft-duplicate signals.
+Disallow: /about.html
+Disallow: /contact.html
+Disallow: /menu.html
+Disallow: /service.html
+Disallow: /team.html
+Disallow: /testimonial.html
+
+# Crawl-delay is intentionally omitted — Googlebot ignores it,
+# and the site is small enough that no throttling is needed.
+
+Sitemap: https://yourdomain.com/sitemap.xml
