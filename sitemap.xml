@@ -64,7 +64,7 @@
         </image:image>
         <image:image>
             <image:loc>https://bakery-shop-web-vercel.vercel.app/img/drinks.png</image:loc>
-            <image:title>Çay & İçecekler</image:title>
+            <image:title>Çay &amp; İçecekler</image:title>
             <image:caption>Çay ve soğuk içecek alternatifleri.</image:caption>
         </image:image>
     </url>
